@@ -1,0 +1,18 @@
+aws-load-balancer-project/
+│
+├── ec2_setup/
+│   ├── install_webserver.sh
+│   └── user_data.sh
+│
+├── load_balancer/
+│   └── create_load_balancer.sh
+│
+├── terraform_setup/
+│   └── main.tf (optional for IaC setup)
+│
+├── screenshots/
+│   └── output1.png
+│   └── output2.png
+│
+├── README.md
+└── project_report.pdf
